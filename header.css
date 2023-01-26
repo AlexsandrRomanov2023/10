@@ -1,0 +1,35 @@
+.header {
+padding: 17px 0px;
+}
+.header-wraper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-navigation {
+    display: flex;
+}
+.link {
+    margin-right: 40px;
+    font-style: normal;
+}
+.button {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 14px;
+    padding: 10px 20px;
+    border-radius: 3px;
+    border: none;
+    font-size: 13px;
+}
+.button-one {
+    background-color: #EF7F04;
+    color: #FFFFFF;
+}
+.button-two {
+    background-color: #3B3A63;
+    color: #FFFFFF;
+}
+.button-icon {
+    margin-right: 12px;
+}
